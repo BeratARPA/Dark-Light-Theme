@@ -49,4 +49,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to contact me:
 - **Email**: [beratarpa@hotmail.com](mailto:beratarpa@hotmail.com)
-- **GitHub**: [https://github.com/BeratARPA/Dark-Light-Theme](https://github.com/BeratARPA)
+- **GitHub**: [https://github.com/BeratARPA](https://github.com/BeratARPA)
